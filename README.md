@@ -7,7 +7,7 @@ We will use VGG, RESNET, XCEPTION & Inception pre-trained models for predictions
 Human action recognition will be useful in various sectors such as healthcare, sports performance analysis, intelligent monitring and many more.
 
 **Dataset :**
-To predict human actions I have used image dataset from kaggle - https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset
+For this project I have used image dataset from kaggle - https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset
 
 ![image](https://github.com/Piya88/Human_Action_Recognition/assets/137636789/6bf0ab61-cb9f-4be6-9aea-cc64c61718a5)
 
