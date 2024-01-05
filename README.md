@@ -1,6 +1,6 @@
-**Human Action Recognition**
+# Human Action Recognition
 
-Description:
+Description: 
 
 In this project we will use Convolutional Neural Network to predict human actions based on images. In this project we will recognise 15 different human action based on images, For this we will use transfer learning technique to predict human actions.
 We will use VGG, RESNET, XCEPTION & Inception pre-trained models for predictions. We will fine tune each model to get better results and  will choose model with high accuracy to perform predictions on test data.
